@@ -19,7 +19,7 @@ Challenge website: [https://affective-behavior-analysis-in-the-wild.github.io/10
 ```
 
 
-If you want to participate in the **AH Recognition Challenge**, you should follow the below procedure for registration. Your registration is an automatic request of the *BAH* dataset cited above. Once we receive your resigration, we will send you access details for the *BAH* dataset.
+If you want to participate in the **AH Recognition Challenge**, you should follow the below procedure for registration. Your registration is an automatic request of the *BAH* dataset cited above needed for training. Once we receive your resigration, we will send you access details for the *BAH* dataset.
 
 The registration consists in filling a form and signing a End-User License Agreement (EULA) to be uploaded in the form.
 
