@@ -1,6 +1,6 @@
-# [Registration in the Ambivalence/Hesitancy (AH) Video Recognition Challenge, ABAW10th, CVPR2026](https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts3)
+# [Registration in the Ambivalence/Hesitancy (AH) Video Recognition Challenge, ABAW10th, CVPR2026](https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts1)
 
-- Challenge website: [https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts3](https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts1)
+- Challenge website: [https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts1](https://affective-behavior-analysis-in-the-wild.github.io/10th/#counts1)
 - Code in `bah_metrics.py` will be used for evaluation. Teams can use it to evaluate their models on the public BAH test set.
 
 
